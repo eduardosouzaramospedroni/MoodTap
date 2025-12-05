@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MoodTap</string>
+    <string name="texto_bem_vindo">SEJA BEM VINDO AO MOODTAP!</string>
+    <string name="texto_botao_continuar">CONTINUAR</string>
+    <string name="texto_logo">Logo do MoodTap</string>
+</resources>

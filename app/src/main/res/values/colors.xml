@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cor_preto">#FF000000</color>
+    <color name="cor_branco">#FFFFFFFF</color>
+    <color name="cor_preto2">#1D1D1D</color>
+    <color name="cor_amarelo">#FFE504</color>
+</resources>
