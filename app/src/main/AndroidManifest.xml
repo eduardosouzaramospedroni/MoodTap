@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MoodTap">
         <activity
+            android:name=".TelaPrincipal"
+            android:exported="false" />
+        <activity
             android:name=".TelaInicio"
             android:exported="true">
             <intent-filter>
