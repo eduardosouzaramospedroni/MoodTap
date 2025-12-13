@@ -5,57 +5,6 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".TelaPrincipal"
-    android:background="@color/cor_preto2">
-
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:fontFamily="casual"
-        android:gravity="center"
-        android:text="@string/texto_bem_vindo"
-        android:textColor="@color/cor_amarelo"
-        android:textSize="30sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.164" />
-
-    <ImageView
-        android:id="@+id/imageView2"
-        android:layout_width="364dp"
-        android:layout_height="279dp"
-        android:layout_marginStart="47dp"
-        android:layout_marginTop="67dp"
-        android:layout_marginEnd="48dp"
-        android:layout_marginBottom="145dp"
-        android:contentDescription="@string/texto_logo"
-        android:src="@drawable/moodtap_logo"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.662" />
-
-    <Button
-        android:id="@+id/button2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="160dp"
-        android:layout_marginTop="51dp"
-        android:layout_marginEnd="161dp"
-        android:layout_marginBottom="127dp"
-        android:text="@string/texto_botao_continuar"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView2"
-        android:background="@drawable/botao_continuar_colorido"
-        android:textColor="@color/cor_preto"
-        android:fontFamily="casual"
-        android:textSize="20sp" />
+    tools:context=".TelaPrincipal">
 
 </androidx.constraintlayout.widget.ConstraintLayout>
