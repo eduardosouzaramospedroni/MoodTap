@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MoodTap">
         <activity
+            android:name=".TelaHistorico"
+            android:exported="false" />
+        <activity
             android:name=".TelaPrincipal"
             android:exported="false" />
         <activity
