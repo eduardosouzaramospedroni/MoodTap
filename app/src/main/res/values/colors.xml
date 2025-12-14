@@ -4,4 +4,5 @@
     <color name="cor_branco">#FFFFFFFF</color>
     <color name="cor_preto2">#1D1D1D</color>
     <color name="cor_amarelo">#FFE504</color>
+    <color name="cor_transparente">#00000000</color>
 </resources>

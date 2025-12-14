@@ -10,4 +10,5 @@
     <string name="texto_botao_triste">Emoji Triste</string>
     <string name="texto_botao_bravo">Emoji Bravo</string>
     <string name="texto_botao_medo">Emoji com Medo</string>
+    <string name="texto_historico">Histórico</string>
 </resources>
