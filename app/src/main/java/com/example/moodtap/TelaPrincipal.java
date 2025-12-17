@@ -25,7 +25,7 @@ public class TelaPrincipal extends AppCompatActivity {
             return insets;
         });
 
-        botao_historico.findViewById(R.id.button);
+        botao_historico = findViewById(R.id.button);
 
         botao_historico.setOnClickListener(view -> {
             Intent mudartela = new Intent(TelaPrincipal.this, TelaHistorico.class);
