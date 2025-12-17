@@ -135,6 +135,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageButton10"
-        android:textAllCaps="false"/>
+        android:textAllCaps="false"
+        android:textColor="@color/cor_branco"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
